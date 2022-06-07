@@ -1,0 +1,6 @@
+GitBash
+Postman
+API
+SQL
+Sniffers
+DevTools
